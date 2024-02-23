@@ -1,2 +1,2 @@
 # Sistem-Embedded
-printf("Hello");
+Hello
